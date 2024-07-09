@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import myImage from './free-nature-images.jpg'
 
 function App() {
   return (
